@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 12
-  productGUID: d4893650a459c481aa5082e8d5e2f328
+  productGUID: 96d613be2acbd40bb8294c22d4ea66cc
   AndroidProfiler: 0
   defaultScreenOrientation: 4
   targetDevice: 2
@@ -407,7 +407,7 @@ PlayerSettings:
   ps4DownloadDataSize: 0
   ps4GarlicHeapSize: 2048
   ps4ProGarlicHeapSize: 2560
-  ps4Passcode: WS2qVOw5lxuBEBNue7b9PZS0hoI6pgab
+  ps4Passcode: lQ9wQj99nsQzldVI5ZuGXbEWRK5RhRXd
   ps4pnSessions: 1
   ps4pnPresence: 1
   ps4pnFriends: 1
@@ -453,7 +453,7 @@ PlayerSettings:
   psp2LiveAreaTrialPath: 
   psp2PatchChangeInfoPath: 
   psp2PatchOriginalPackage: 
-  psp2PackagePassword: i9UOuSpM2Tlh01vOzwvSikHFswuzleht
+  psp2PackagePassword: CdG5nG5azdNMK66MuCV6GXi5xr84P2R3
   psp2KeystoneFile: 
   psp2MemoryExpansionMode: 0
   psp2DRMType: 0
@@ -589,8 +589,8 @@ PlayerSettings:
   cloudServicesEnabled: {}
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 9d2a1f8d-43bc-410a-936c-d23a05f4f3d1
-  projectName: InkBoy
+  cloudProjectId: 0e3f4170-7f82-46fe-8e16-c9c06e24c82b
+  projectName: InkBoy (1)
   organizationId: fangluelue
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
